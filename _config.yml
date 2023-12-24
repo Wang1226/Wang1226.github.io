@@ -162,7 +162,7 @@ defaults:
   home:
     heading: "Welcome to Wang Peichen's Personal Website!"
     subheading: "A postgraduate student in the Department of Statistics in Sustech."
-    banner: "123.jpg"
+    banner: "https://ibb.co/JFkfgmK"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
