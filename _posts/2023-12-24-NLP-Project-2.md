@@ -25,6 +25,8 @@ Hello, World!
 
 Applying Large Language Models (LLMs) in the domain of law offers a range of intriguing possibilities, each with its own potential benefits and challenges. Here are some thoughts and ideas on how LLMs can be integrated into the legal domain:
 
+### Potential Applications
+
 1. **Legal Research Assistance**: LLMs can streamline the process of legal research by quickly sifting through vast databases of case law, statutes, regulations, and legal articles. This can help lawyers and legal researchers find relevant precedents and materials faster than traditional methods.
 
 2. **Drafting and Reviewing Documents**: LLMs can assist in drafting legal documents such as contracts, wills, and legal briefs. They can suggest language, identify standard clauses, and even help tailor documents to specific jurisdictions. Additionally, LLMs can review legal documents for errors, inconsistencies, or missing elements.
